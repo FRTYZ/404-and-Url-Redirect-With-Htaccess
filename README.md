@@ -9,7 +9,7 @@ In our project where you will redirect 404 and url with htaccess, I will present
 
 
 #### 404 page redirect in .htaccess
-* With " ErrorDocument 404 ", write the name of the page you want to redirect errors to right next to the " / " sign (eg: 404.php)
+* With " ErrorDocument 404 " write the name of the page you want to redirect errors to right next to the " / " sign (eg: 404.php)
 
 **Important**
 - If a space or wrong page name is written to the right of the "/ " sign, your project may give an error.
