@@ -36,7 +36,7 @@ RewriteRule ^about about.html [L,NC]
  a class="nav-link" href="about">About</a>
 ``` 
 ![alt text](https://github.com/FRTYZ/404-and-Url-Redirect-With-Htaccess/blob/main/ss/home-page.png?raw=true)
-![alt text](https://github.com/FRTYZ/404-and-Url-Redirect-With-Htaccess/blob/main/ss/home-page.png?raw=true)
+![alt text](https://github.com/FRTYZ/404-and-Url-Redirect-With-Htaccess/blob/main/ss/about-page.png?raw=true)
 
 #### .htaccess
 ```
